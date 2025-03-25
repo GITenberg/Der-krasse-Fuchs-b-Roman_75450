@@ -1,5 +1,8 @@
 _repo: Der-krasse-Fuchs-b-Roman_75450
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75450-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloem, Walter
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Walter_Bloem
     - https://de.wikipedia.org/wiki/Walter_Bloem
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75450#Der-krasse-Fuchs-b-Roman
 gutenberg_issued: '2025-02-23'
 gutenberg_type: Text
 identifiers:
